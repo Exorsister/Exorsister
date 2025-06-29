@@ -47,9 +47,10 @@
 ## 🛠️ ทักษะที่ถนัด
 
 - Backend: Node.js / Express 
-- Frontend: Next.js / HTML / CSS / Bootstrap
+- Frontend: Next.js / HTML / CSS / Bootstrap / JavaScript
 - Database: MySQL
-- Tools: Git / GitHub / Postman / Vercel / Figma / Canva  
+- Tools: Git / GitHub / Postman / Vercel / Figma / Canva / CSS / Bootstrap
+- Other: Microsoft office / Power BI / Python / Cypress / Robot Framework
 - Testing: Manual Testing, Test Case, Bug Reporting
 
 ---
