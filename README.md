@@ -16,7 +16,7 @@
 ---
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,react,php,laravel,mysql,js,html,css,bootstrap,git,github,vercel,postman,figma,canva" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,react,mysql,js,html,css,bootstrap,git,github,vercel,postman,figma,canva" />
 </p>
 
 ---
